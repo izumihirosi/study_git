@@ -1,0 +1,3 @@
+ssh -T git@github.com
+git config --global user.name "你的GitHub登陆名"
+git config --global user.email "你的GitHub注册邮箱" 
